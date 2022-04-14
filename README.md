@@ -37,7 +37,7 @@ Form Input<p>
 Form Button.<p>
     ![Gambar](Css10.png)<p>
     ![Gambar](Ss7.png)<p>
-<b>HTML DOM</b>
+<b>HTML DOM</b><p>
 pilihan menggunakan checkBox dengan perhitungan otomatis<p>
     ![Gambar](Css11.png)<p>
     ![Gambar](Ss8.png)<p>
