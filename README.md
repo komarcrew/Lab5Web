@@ -16,20 +16,28 @@ Pemakaian method dalam objek<p>
     ![Gambar](Css3.png)<p>
 Pemakaian Prompt<p>
     ![Gambar](Css4.png)<p>
+    ![Gambar](Ss2.png)<p>
 Pembuatan fungsi dan cara pemanggilannya<p>
     ![Gambar](Css5.png)<p>
 <b>Dasar Pemprograman Di Javascript</b><p>
 Operasi dasar aritmatika<p>
     ![Gambar](Css6.png)<p>
+    ![Gambar](Ss3.0.png)<p>
+    ![Gambar](Ss3.1.png)<p>
 Seleksi kondisi(if..else)<p>
     ![Gambar](Css7.png)<p>
+    ![Gambar](Ss4.png)<p>
 Penggunaan operator switch untuk seleksi kondisi<p>
     ![Gambar](Css8.png)<p>
+    ![Gambar](Ss5.png)<p>
 <b>Pembuatan Form</b><p>
 Form Input<p>
     ![Gambar](Css9.png)<p>
+    ![Gambar](Ss6.png)<p>
 Form Button.<p>
     ![Gambar](Css10.png)<p>
+    ![Gambar](Ss7.png)<p>
 <b>HTML DOM</b>
 pilihan menggunakan checkBox dengan perhitungan otomatis<p>
     ![Gambar](Css11.png)<p>
+    ![Gambar](Ss8.png)<p>
